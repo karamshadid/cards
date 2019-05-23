@@ -1,0 +1,16 @@
+.card {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  padding: 20px;
+  margin: 30px;
+  box-shadow: 10px 10px 5px rgb(27, 11, 66);
+}
+
+.Persons {
+  display: flex;
+}
+
+button {
+  padding: 10px;
+}
